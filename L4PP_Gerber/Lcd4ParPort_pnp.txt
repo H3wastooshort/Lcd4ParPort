@@ -1,0 +1,26 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Lcd4ParPort
+*Date=15:31:24
+*CreatedBy=Fritzing 0.9.4.2019-12-01.CD-498-0-a1ffcea
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;35.9664;-12.1918;0;Bottom;Via3
+2;;;40.0304;-7.7214;0;Bottom;Via2
+3;;THT;3.26269;-10.2443;180;Bottom;J2
+4;;;27.6467;-21.7351;90;Bottom;D25
+5;;;40.8547;13.4947;0;Bottom;LCD1
+6;;power_jack_pth_lock;74.1447;-10.2663;-90;Bottom;J1
+7;;THT;62.1907;-19.7412;0;Bottom;R1
+8;;TO92 [THT];44.2202;-9.49234;0;Bottom;Q1
+9;;usb-minib;77.2208;-22.8612;180;Top;U1
+10;220;THT;57.1107;-9.58124;0;Bottom;R2
+11;;;47.3456;-21.9454;0;Bottom;Via1
